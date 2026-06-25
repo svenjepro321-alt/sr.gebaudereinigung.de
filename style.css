@@ -1433,27 +1433,3 @@ a {
         height: 30px; /* smanji logo */
     }
 }
-/* NAV BUTTON STYLE */
-.main-nav a {
-    border: 1px solid rgba(255, 255, 255, 0.85);
-    border-radius: 999px;
-    padding: 10px 18px;
-    background: rgba(255, 255, 255, 0.06);
-}
-
-.main-nav a:hover {
-    background: white;
-    color: #0f172a;
-}
-
-/* HEADER SOCIAL ICONS FAR RIGHT */
-.header-top {
-    position: relative;
-}
-
-.social-icons {
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
-}
